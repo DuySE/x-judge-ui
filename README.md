@@ -2,7 +2,7 @@
 
 ## Author
 
-Duy Nguyen
+Nguyen Duy
 
 ## Prerequisites
 
